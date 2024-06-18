@@ -7,7 +7,6 @@ CryptoLib is a C library designed to apply cryptographic techniques. This projec
 - Basic encryption and decryption functions
 - Application of common cryptographic algorithms
 - Modular design for easy integration into other projects
-- Extensive comments and documentation for educational purposes
 
 ## Motivation
 
