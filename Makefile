@@ -2,7 +2,7 @@ all: cryptolib example
 
 
 example: example.o
-	gcc example.o -o cryptolib -O2 -Wall 
+	gcc example.o -o example -O2 -Wall 
 
 example.o: example.c
 	gcc -c -O2 -Wall example.c

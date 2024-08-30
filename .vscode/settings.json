@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "cryptolib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
